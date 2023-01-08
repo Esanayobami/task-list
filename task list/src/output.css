@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.p{
+    padding: 0 0 5px 10px;
+    color:#9560db;
+    margin: 4px;
+    text-decoration: underline;
+    background-color: rgb(241 245 249 );
+    border-radius: 5px;
+  }
